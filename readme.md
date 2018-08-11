@@ -9,7 +9,7 @@ This should be mentioned in the ziprange.txt file from resources folder (which l
 Output: 
 Merged Result:
    [43012, 47900], [49679, 53479], [54012, 59607] 
-which will be viewable in homepage.jsp while loading path localhost:<your port>/challenge/
+which will be viewable in homepage.jsp while loading path localhost:\<your port\>/challenge/
 
 
 
