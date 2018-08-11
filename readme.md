@@ -32,6 +32,7 @@ This is done using junit. and we have 2 test classes defined to test zipcode val
 
 
 Example: 
+
 1. 
 Entered Zip :
 [49679,520a15],[49800,50000],[51500,53479],[45012,46937],[54012,59607],[45500,45590],[45999,47900],[44000,45000],[43012,45950]
