@@ -19,11 +19,17 @@ Problem solution and Algorithm:
 once the upper and lower range is validated for all zip codes 
 3. It is further kept in Tree map and the beauty of treemap will sort the zip codes based on lower zip range using class TreemapToArray and further it is converted into Arraylist of arraylist. 
 4. Now we have list of sorted zip code based on lower zip range. to merge the zip ranges, we will have further 3 cases to done till the end of the list:
+
 	a. the upper range is less than lower range of next zip range (adjacent). 
+
 		Result: let lower and upper range as one of the output range. and move to next range.
+		
 	b. the upper range is greater than lower range and lesser than upper range of next zip range (adjacent).
+		
 		Result: take the lower range of current and upper range of adjacent range and then look for next range using step 4.
+		
 	c. the upper range is greater than lower range of next zip range (adjacent). 
+		
 		Result: let lower and upper range  of current and avoid the adjacent range and continue step 4 to another range (second adjacent).
 5. Finally we will retrieve the output as the merged arraylist of the zip code 
 
