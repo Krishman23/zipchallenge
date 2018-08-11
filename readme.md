@@ -34,10 +34,10 @@ once the upper and lower range is validated for all zip codes
 5. Finally we will retrieve the output as the merged arraylist of the zip code 
 
 Test Cases:
-This is done using junit. and we have 2 test classes defined to test zipcode validation, convert treemap to arraylist, and finally merge the zip code.
+This is done using junit. and we have 3 test classes defined to test zipcode validation, convert treemap to arraylist, and finally merge the zip code.
 
 
-Example: 
+Output Example:  
 
 1. 
 Entered Zip :
