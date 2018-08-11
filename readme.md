@@ -1,4 +1,4 @@
-This application-Zipcode challenge  is based on Simple Spring web application with maven and Junit tools using : Spring Tool Suite, Version: 3.8.2.RELEASE, Platform: Eclipse Neon.1 (4.6.1) and Tomcal server.
+This application-Zipcode challenge  is based on  Spring MVC web application with maven and Junit tools using : Spring Tool Suite, Version: 3.8.2.RELEASE, Platform: Eclipse Neon.1 (4.6.1) and Tomcal server.
 
 Introduction:
  This is a real world problem. To filter out the zip code range. 
