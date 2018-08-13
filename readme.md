@@ -28,13 +28,13 @@ once the upper and lower range is validated for all zip codes
 		
 		Result: take the lower range of current and upper range of adjacent range and then look for next range using step 4.
 		
-	c. the upper range is greater than lower range of next zip range (adjacent). 
+	c. the upper range is greater than lower & upper range of next zip range (adjacent). 
 		
 		Result: let lower and upper range  of current and avoid the adjacent range and continue step 4 to another range (second adjacent).
 5. Finally we will retrieve the output as the merged arraylist of the zip code 
 
 Test Cases:
-This is done using junit. and we have 3 test classes defined to test zipcode validation, convert treemap to arraylist, and finally merge the zip code.
+This is done using junit. and we have 3 test classes defined to test zipcode validation, convert treemap to arraylist, and finally merge the zip code. 
 
 
 Output Example:  
